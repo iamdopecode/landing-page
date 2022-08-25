@@ -37,7 +37,7 @@ To run this project, you will need to add the following environment hardware/sof
 
 ## License
 
-This project comes under [MIT](https://choosealicense.com/licenses/mit/) License
+This project comes under [MIT](LICENSE) License
 
 ## Run Locally
 
